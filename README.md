@@ -1,4 +1,4 @@
-# Neural Assemblies  
+# Neural Assemblies: A Visual Chronicle of 3D Computer Graphics through LEGO®-Stylized Modular Constructs
 **Jinwoo Lee**  
 KAIST School of Computing  (cinescope@kaist.ac.kr)
 
