@@ -6,7 +6,12 @@ KAIST School of Computing  (cinescope@kaist.ac.kr)
 
 ## Project Overview
 
-**Neural Assemblies** is a stylized 3D visual experience that reimagines foundational artifacts and figures from the history of computer graphics through the modular language of LEGO®. By combining generative AI pipelines with manual 3D modeling, the project produces a coherent, educational, and visually compelling scene rendered through a neural graphics pipeline.
+**Neural Assemblies** is a computationally driven 3D visual composition that synthesizes historical artifacts and figures from the canon of computer graphics through a structured, modular reconstruction using LEGO®-inspired primitives. The project integrates **generative neural pipelines**—notably **DreamGaussian**—with **manual modeling and assembly in Blender and LEGO Studio**, resulting in a geometrically coherent and semantically meaningful visual tableau. 
+
+Rather than pursuing photorealism, we adopt a **symbolic abstraction framework**, where each component is designed to reflect its cultural and technical significance in CG history, including reconstructed icons such as the Stanford Bunny, Utah Teapot, Cornell Box, and Suzanne. The final scene is rendered using a stylized NeRF-based pipeline that preserves **multi-view consistency**, **surface modularity**, and **material-aware shading dynamics**. Our approach bridges neural scene representations with structured artistic grammar, demonstrating how **neural graphics can support pedagogically grounded, historically reflective, and formally consistent visual storytelling**.
+
+View the hosted version of this project:  
+**[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/neural-assemblies)**  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c3b66d4a-cab6-4098-99fa-44de22fba5ca" alt="Teaser Image" width="80%">
@@ -20,8 +25,8 @@ KAIST School of Computing  (cinescope@kaist.ac.kr)
 
 - A 3D scene composed of iconic CG artifacts including:
   - Stanford Bunny, Utah Teapot, Cornell Box, Lena, Suzanne (Blender), Luxo Jr. lamp, Mitsuba Clover
-  - Stylized depictions of Edwin Catmull and Steve Jobs
-- Integration of **DreamGaussian** to synthesize candidate 3D geometry
+  - Stylized depictions of LEGO® figurine of Edwin Catmull and Steve Jobs... and more 
+- Integration of **[DreamGaussian](https://dreamgaussian.github.io)**to synthesize candidate 3D geometry
 - Manual refinement and stylization in **Blender** and **LEGO Studio**
 - Final rendering pipeline combining neural representations and stylized shading
 
