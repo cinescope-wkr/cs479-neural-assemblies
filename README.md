@@ -6,18 +6,19 @@ KAIST School of Computing  (cinescope@kaist.ac.kr)
 
 ## Project Overview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3b66d4a-cab6-4098-99fa-44de22fba5ca" alt="Teaser Image" width="80%">
+  <br>
+  <em>Teaser: LEGO-based reconstruction of CG milestones in a neural-rendered garden.</em>
+</p>
+
+
 **Neural Assemblies** is a computationally driven 3D visual composition that synthesizes historical artifacts and figures from the canon of computer graphics through a structured, modular reconstruction using LEGO®-inspired primitives. The project integrates **generative neural pipelines**, notably **DreamGaussian** with **manual modeling and assembly in Blender and LEGO Studio**, resulting in a geometrically coherent and semantically meaningful visual tableau. 
 
 Rather than only pursuing photorealism, we adopt a **symbolic abstraction framework**, where each component is designed to reflect its cultural and technical significance in CG history, including reconstructed icons such as the Stanford Bunny, Utah Teapot, Cornell Box, and Suzanne. Our approach bridges neural scene representations with structured artistic grammar, demonstrating how **modern neural volume rendering can support pedagogically grounded, historically reflective, and formally consistent visual storytelling**.
 
 Demo of this project:  
 **[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/neural-assemblies)**  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c3b66d4a-cab6-4098-99fa-44de22fba5ca" alt="Teaser Image" width="80%">
-  <br>
-  <em>Teaser: LEGO-based reconstruction of CG milestones in a neural-rendered garden.</em>
-</p>
 
 ---
 
