@@ -18,7 +18,7 @@ KAIST School of Computing  (cinescope@kaist.ac.kr)
 Rather than only pursuing photorealism, we adopt a **symbolic abstraction framework**, where each component is designed to reflect its cultural and technical significance in CG history, including reconstructed icons such as the Stanford Bunny, Utah Teapot, Cornell Box, and Suzanne. Our approach bridges neural scene representations with structured artistic grammar, demonstrating how **modern neural volume rendering can support pedagogically grounded, historically reflective, and formally consistent visual storytelling**.
 
 Demo of this project:  
-**[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/neural-assemblies)**  
+**[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/cs479-neural-assemblies)**  
 
 ---
 
@@ -64,7 +64,7 @@ The project follows a hybrid pipeline involving:
 ## Live Demo
 
 View the hosted version of this project:  
-**[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/neural-assemblies)**
+**[https://cinescope-wkr.github.io/neural-assemblies](https://cinescope-wkr.github.io/cs479-neural-assemblies)**
 
 ---
 
