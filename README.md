@@ -72,3 +72,6 @@ View the hosted version of this project:
 
 This project was created as part of the CS479 Rendering Contest (Spring 2025), inspired by the intersection of neural graphics and artistic reconstruction.  
 Special thanks to open-source contributors to DreamGaussian, Blender, and LEGO Studio.
+
+This work is intended solely for **educational and non-commercial purposes**.  
+All original characters, models, and intellectual properties referenced or reinterpreted in this project remain the rightful creations of their respective owners.
