@@ -29,7 +29,7 @@ Demo of this project:
   - Stylized depictions of LEGO® figurine of Edwin Catmull and Steve Jobs... and more 
 - Integration of [DreamGaussian](https://dreamgaussian.github.io) to synthesize candidate 3D geometry
 - Manual refinement and stylization in **Blender** and **LEGO Studio**
-- Final rendering pipeline combining neural representations and stylized shading
+- Final rendering pipeline combining neural representations and stylized 3D contents
 
 ---
 
@@ -39,7 +39,7 @@ The project follows a hybrid pipeline involving:
 
 - **Generative Phase**: Asset priors generated using DreamGaussian and processed to fit modular LEGO-style constraints.
 - **Manual Modeling Phase**: Human-in-the-loop asset refinement and snapping-based LEGO assembly using Blender and LEGO Studio libraries.
-- **Rendering Phase**: Stylized rendering using a neural volume representation engine, with attention to inter-object illumination and LEGO material properties.
+- **Rendering Phase**: Stylized rendering with attention to inter-object illumination and LEGO material properties.
 
 ---
 
@@ -56,7 +56,6 @@ The project follows a hybrid pipeline involving:
 - DreamGaussian (3D priors)
 - Blender (manual modeling, scene layout)
 - LEGO Studio (real-world brick compatibility)
-- Custom NeRF-style renderer
 - GitHub Pages + Three.js (for optional interactive deployment)
 
 ---
