@@ -27,7 +27,7 @@ Demo of this project:
 - A 3D scene composed of iconic CG artifacts including:
   - Stanford Bunny, Utah Teapot, Cornell Box, Lena, Suzanne (Blender), Luxo Jr. lamp, Mitsuba Clover
   - Stylized depictions of LEGO® figurine of Edwin Catmull and Steve Jobs... and more 
-- Integration of **[DreamGaussian](https://dreamgaussian.github.io)**to synthesize candidate 3D geometry
+- Integration of [DreamGaussian](https://dreamgaussian.github.io) to synthesize candidate 3D geometry
 - Manual refinement and stylization in **Blender** and **LEGO Studio**
 - Final rendering pipeline combining neural representations and stylized shading
 
