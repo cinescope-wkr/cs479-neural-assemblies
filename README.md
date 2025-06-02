@@ -9,7 +9,7 @@ KAIST School of Computing  (cinescope@kaist.ac.kr)
 **Neural Assemblies** is a stylized 3D visual experience that reimagines foundational artifacts and figures from the history of computer graphics through the modular language of LEGO®. By combining generative AI pipelines with manual 3D modeling, the project produces a coherent, educational, and visually compelling scene rendered through a neural graphics pipeline.
 
 <p align="center">
-  <img src="asset/teaser.png" alt="Teaser Image" width="80%">
+  <img src="./asset/teaser.png" alt="Teaser Image" width="80%">
   <br>
   <em>Teaser: LEGO-based reconstruction of CG milestones in a neural-rendered garden.</em>
 </p>
